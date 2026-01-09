@@ -14,3 +14,7 @@ D.Kovács, D., **De Clerck, E.**, & Verrelst, J. (2025). _PyEOGPR: A Python pack
 
 
 ## Conference contributions
+- Living Planet Symposium. June 2026, Vienna, Austria. Poster session (x2).
+- PANGEOS WG2 meeting on Digital Twins in Agriculture. Feb 2025, Turin, Italy. Presentation.
+- PANGEOS Workshop 1. May 2024, Poznan, Poland. Presentation.
+- EARSeL 13th Workshop on Imaging Spectroscopy. March 2024, Valencia, Spain. Organizing Committee - Volunteer.
