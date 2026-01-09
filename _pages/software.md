@@ -1,3 +1,8 @@
+---
+permalink: /software/
+title: "Software"
+---
+
 
 ## PyEOGPR
 
