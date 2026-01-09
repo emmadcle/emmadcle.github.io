@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Emma De Clerck - About me
+title: Emma De Clerck
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -69,13 +69,13 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://scholar.google.es/citations?user=LcMf4nsAAAAJ&hl=nl"
     - label: "ResearchGate"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Emma-De-Clerck?ev=hdr_xprf"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/emma-de-clerck-10309a255/"
     - label: "ORCID"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/my-orcid?orcid=0009-0009-9264-2679"
       
 
