@@ -10,8 +10,7 @@ title: About
 
 ## About me
 
-I am a doctoral researcher at the Image Processing Laboratory, Universitat de València, Spain (since February 2024).
-I hold both a Bachelor’s and a Master’s degree in Bioscience Engineering: Forest and Nature Management from Ghent University.
+After completing my Master’s degree in Bioscience Engineering (Forest and Nature Management) at Ghent University in 2023, I started as a trainee at the Laboratory of Earth Observation. Since February 2024, I am a doctoral researcher funded by the FLEXINEL ERC grant.
 
 ## Research interests
 
