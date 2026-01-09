@@ -1,0 +1,14 @@
+/* Reduce overall body text size */
+body {
+  font-size: 15px;
+}
+
+/* Slightly smaller headings */
+h1 { font-size: 2.0em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.2em; }
+
+/* Tighter line spacing */
+p, li {
+  line-height: 1.6;
+}
