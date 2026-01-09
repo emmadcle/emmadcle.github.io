@@ -1,5 +1,7 @@
 ---
-title: "About me"
+title: "About Me"
+categories:
+  - Blog
 ---
 
-Short biogrpahy.
+write short biography
