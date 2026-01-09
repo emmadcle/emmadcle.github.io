@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-# Jounals
+# Journals
 
 **De Clerck, E.**, Reyes-Muñoz, P., Prikaziuk, E., D.Kovács, D. & Verrelst, J. (2026). _High-spatial-resolution gross primary production estimation from Sentinel-2 reflectance using hybrid Gaussian processes modeling_. ISPRS Journal of Photogrammetry and Remote Sensing, 232, 172-195.
 
