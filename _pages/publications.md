@@ -5,6 +5,8 @@ title: "Publications"
 
 ## Journals
 
+Verrelst, J., Zhang, Y., Morata, M., **De Clerck, E.**, Liu, L. (2026) Machine Learning for Satellite Solar-Induced Fluorescence: Retrieval, Reconstruction, Downscaling, and Applications. _Remote Sensing_.
+
 **De Clerck, E.** & Verrelst, J. (2026). A user-friendly Google Earth Engine Web Application for vegetation trait mapping and time series analysis from Sentinel-2 and Sentinel-3 imagery. _IEEE Geoscience and Remote Sensing Letters_.
 
 **De Clerck, E.**, Reyes-Muñoz, P., Prikaziuk, E., D.Kovács, D. & Verrelst, J. (2026). High-spatial-resolution gross primary production estimation from Sentinel-2 reflectance using hybrid Gaussian processes modeling. _ISPRS Journal of Photogrammetry and Remote Sensing_, 232, 172-195.
