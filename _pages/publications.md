@@ -5,9 +5,11 @@ title: "Publications"
 
 ## Journals
 
-Verrelst, J., García-Soria, J.L., Reyes-Muñoz, P., **De Clerck, E.**, Morata, M. & Rivera-Caicedo, J.P. (2026) Epistemic and aleatoric uncertainty in optical vegetation trait retrieval: Concepts, Methods, and Outlook. _ISPRS Journal of Photogrammetry and Remote Sensing_, 234, 20-45.
+Verrelst, J., **De Clerck, E.**, Verma, B., Mishra, K. & Caballero, G. (2026). Cloud-Native Earth Observation for Quantitative Vegetation Science: Architectures, Workflows, and Scientific Implications. _Remote Sensing_. 18, 1154.
 
-Verrelst, J., Zhang, Y., Morata, M., **De Clerck, E.** & Liu, L. (2026) Machine Learning for Satellite Solar-Induced Fluorescence: Retrieval, Reconstruction, Downscaling, and Applications. _Remote Sensing_. 18, 553.
+Verrelst, J., García-Soria, J.L., Reyes-Muñoz, P., **De Clerck, E.**, Morata, M. & Rivera-Caicedo, J.P. (2026). Epistemic and aleatoric uncertainty in optical vegetation trait retrieval: Concepts, Methods, and Outlook. _ISPRS Journal of Photogrammetry and Remote Sensing_, 234, 20-45.
+
+Verrelst, J., Zhang, Y., Morata, M., **De Clerck, E.** & Liu, L. (2026). Machine Learning for Satellite Solar-Induced Fluorescence: Retrieval, Reconstruction, Downscaling, and Applications. _Remote Sensing_. 18, 553.
 
 **De Clerck, E.** & Verrelst, J. (2026). A user-friendly Google Earth Engine Web Application for vegetation trait mapping and time series analysis from Sentinel-2 and Sentinel-3 imagery. _IEEE Geoscience and Remote Sensing Letters_. 
 
