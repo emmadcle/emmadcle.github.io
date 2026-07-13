@@ -5,6 +5,8 @@ title: "Publications"
 
 ## Journals
 
+D.Kovács, D., **De Clerck, E.**, Brown, L. A., Reyes-Muñoz, P. & Verrelst, J. (2026). Hybrid FAPAR and FVC retrieval from Sentinel-3 SYNERGY with Gaussian processes: Development, validation, and cloud-readiness. _Science of Remote Sensing_, 100462.
+
 Verrelst, J., **De Clerck, E.**, Verma, B., Mishra, K. & Caballero, G. (2026). Cloud-Native Earth Observation for Quantitative Vegetation Science: Architectures, Workflows, and Scientific Implications. _Remote Sensing_. 18, 1154.
 
 Verrelst, J., García-Soria, J.L., Reyes-Muñoz, P., **De Clerck, E.**, Morata, M. & Rivera-Caicedo, J.P. (2026). Epistemic and aleatoric uncertainty in optical vegetation trait retrieval: Concepts, Methods, and Outlook. _ISPRS Journal of Photogrammetry and Remote Sensing_, 234, 20-45.
